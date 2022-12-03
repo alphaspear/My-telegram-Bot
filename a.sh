@@ -1,4 +1,4 @@
 echo 'Loading Script'
 sleep 3
-cp /etc/ssh/sshd_config ~/My-telegram-Bot
+sudo cp /etc/ssh/sshd_config /home/iabhilashjoshi/My-telegram-Bot
 git push origin main
